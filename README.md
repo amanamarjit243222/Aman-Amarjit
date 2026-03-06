@@ -41,45 +41,51 @@
 
 <br/>
 
-```typescript
-/**
- * @module    @aman/core
- * @author    Aman Amarjit  <AAJ>
- * @role      Systems Architect · AI Engineer · Security Researcher
- * @location  Bhubaneswar, India  ·  Building for the world
- * @status    ONLINE — Architecting the next system
- */
+```bash
+┌──────────────────────────────────────────────────────────────────────┐
+│  AAJ@systems:~$  whoami                                              │
+└──────────────────────────────────────────────────────────────────────┘
 
-export const AMAN_AMARJIT = {
+  Aman Amarjit  —  Systems Architect · AI Engineer · Security Researcher
+  Location  »  Bhubaneswar, India  ·  Building for the world
+  Status    »  [ ONLINE ]  Architecting the next system
 
-  // ── IDENTITY ─────────────────────────────────────────────────────────
-  codename  : "AAJ",
-  focus     : "Intelligent systems · Secure infrastructure · 3D interfaces",
+┌──────────────────────────────────────────────────────────────────────┐
+│  AAJ@systems:~$  cat expertise.json                                  │
+└──────────────────────────────────────────────────────────────────────┘
 
-  // ── DOMAINS ──────────────────────────────────────────────────────────
-  expertise : {
-    primary  : [ "Backend Architecture",    "Fullstack Engineering"    ],
-    advanced : [ "Autonomous AI Systems",   "Zero-Trust Security"      ],
-    frontier : [ "Biometric Intelligence",  "Human-Machine Interfaces" ],
-  },
+  [primary]   Backend Architecture  ·  Fullstack Engineering
+  [advanced]  Autonomous AI Systems  ·  Zero-Trust Security
+  [frontier]  Biometric Intelligence  ·  Human-Machine Interfaces
 
-  // ── CURRENT WORK ─────────────────────────────────────────────────────
-  flagship  : [ "RULE THE WORLD", "Knowledge Synthesizer",
-                "Biometric Engine", "Discord AI Persona"               ],
-  stack     : [ "FastAPI", "TensorFlow.js", "Three.js", "Gemini API"  ],
+┌──────────────────────────────────────────────────────────────────────┐
+│  AAJ@systems:~$  ls ./projects                                       │
+└──────────────────────────────────────────────────────────────────────┘
 
-  // ── PHILOSOPHY ───────────────────────────────────────────────────────
-  principles : {
-    security  : "Not a layer. The foundation.",
-    design    : "Every abstraction must earn its complexity.",
-    systems   : "Build things that think. Ship things that last.",
-    craft     : "The interface is a promise. Keep it.",
-  },
+  rule-the-world/          →  Geopolitical & macroeconomic simulator
+  knowledge-synthesizer/   →  AI-powered semantic knowledge graph engine
+  biometric-engine/        →  Client-side face recognition (zero-trust)
+  discord-ai-persona/      →  Autonomous Gemini-powered social agent
+  solar-system-gesture/    →  3D physics engine with hand gesture control
 
-  // ── OPEN TO ──────────────────────────────────────────────────────────
-  openTo    : [ "Collaboration", "Frontier Projects", "Hard Problems" ],
+┌──────────────────────────────────────────────────────────────────────┐
+│  AAJ@systems:~$  cat principles.txt                                  │
+└──────────────────────────────────────────────────────────────────────┘
 
-} as const;
+  security   »  Not a layer. The foundation.
+  design     »  Every abstraction must earn its complexity.
+  systems    »  Build things that think. Ship things that last.
+  craft      »  The interface is a promise. Keep it.
+
+┌──────────────────────────────────────────────────────────────────────┐
+│  AAJ@systems:~$  ./connect --open-to                                 │
+└──────────────────────────────────────────────────────────────────────┘
+
+  > Collaboration on frontier AI · Security · Robotics projects
+  > Hard engineering problems worth solving
+  > Open source · Research · System-level work
+
+  AAJ@systems:~$  _
 ```
 
 <br/>
