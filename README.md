@@ -29,27 +29,48 @@
 ## ◈ IDENTITY MATRIX
 
 ```typescript
-// -----------------------------------------------------------------------
-//   import { Engineer, SystemsBuilder, AIArchitect } from '@aman/core'
-// -----------------------------------------------------------------------
+/**
+ * @system    AMAN_AMARJIT  —  Engineer Instance
+ * @version   2025.CURRENT
+ * @clearance OPEN SOURCE
+ * ─────────────────────────────────────────────────────────────────────
+ */
+
+import type { FullstackEngineer, AIResearcher, SecurityArchitect }
+  from "@aman/core";
 
 const AMAN_AMARJIT = {
 
-  codename : "AAJ",
-  class    : "Systems Architect  |  AI Engineer  |  Security Researcher",
+  // ── IDENTITY ──────────────────────────────────────────────────────
+  codename   : "AAJ",
+  title      : "Systems Architect  ·  AI Engineer  ·  Security Researcher",
+  location   : "Bhubaneswar, India  ·  Building for the world",
 
+  // ── DOMAIN EXPERTISE ──────────────────────────────────────────────
   domains: {
-    primary  : ["Backend Architecture",   "Fullstack Engineering"    ],
-    advanced : ["Autonomous AI Systems",  "Zero-Trust Security"      ],
-    frontier : ["Biometric Intelligence", "Human-Machine Interfaces" ],
+    primary  : [ "Backend Architecture",    "Fullstack Engineering"     ],
+    advanced : [ "Autonomous AI Systems",   "Zero-Trust Security"       ],
+    frontier : [ "Biometric Intelligence",  "Human-Machine Interfaces"  ],
   },
 
-  currentMission : "Engineering systems that think, adapt, and endure",
-  philosophy     : "Security-first. AI-native. Performance-obsessed.",
-  approach       : "Every abstraction must earn its complexity.",
+  // ── ACTIVE STACK ──────────────────────────────────────────────────
+  currentlyUsing : [ "FastAPI", "TensorFlow.js", "Three.js", "Gemini" ],
+  currentlyBuilt : [ "RULE THE WORLD", "Knowledge Synthesizer",
+                     "Biometric Engine", "Discord AI Persona"          ],
 
-  status   : "ONLINE  |  Building the next system",
-};
+  // ── PHILOSOPHY ────────────────────────────────────────────────────
+  principles: {
+    on_security  : "Not a feature. The foundation.",
+    on_code      : "Every abstraction must earn its complexity.",
+    on_systems   : "Build things that think. Ship things that last.",
+    on_craft     : "The interface is a promise. Keep it.",
+  },
+
+  // ── SYSTEM STATUS ─────────────────────────────────────────────────
+  status   : "[ ONLINE ]  Architecting the next system",
+  openTo   : [ "Collaboration", "Frontier Projects", "Hard Problems" ],
+
+} satisfies FullstackEngineer & AIResearcher & SecurityArchitect;
 
 export default AMAN_AMARJIT;
 ```
@@ -308,19 +329,21 @@ Full astrophysical simulation in WebGL via Three.js, controlled entirely through
 
 ## ◈ ENGINEERING DOCTRINE
 
-<br/>
-
 ```
-  I.   Security is not a feature — it is the foundation.
-  II.  Every abstraction must earn its complexity.
-  III. Systems should think. Interfaces should transcend.
-  IV.  Ship with intent. Refactor with courage.
-  V.   The best code is the code that doesn't need explaining.
-
-                                         — Aman Amarjit  ·  AAJ
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║                   THE AAJ ENGINEERING MANIFESTO                  ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║                                                                  ║
+  ║  I ···· Security is not a feature — it is the foundation.       ║
+  ║  II ··· Every abstraction must earn its complexity.             ║
+  ║  III ·· Systems should think. Interfaces should transcend.      ║
+  ║  IV ··· Ship with intent. Refactor with courage.                ║
+  ║  V ···· The best code is the code that doesn't need explaining. ║
+  ║                                                                  ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║                                    — Aman Amarjit  ·  AAJ  ·  ∞ ║
+  ╚══════════════════════════════════════════════════════════════════╝
 ```
-
-<br/>
 
 <div align="center">
 
