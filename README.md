@@ -39,6 +39,10 @@ I thrive on solving complex engineering challenges—whether it's optimizing a F
 > An AI-powered knowledge engine that transforms raw discussions into visual semantic maps. Features a robust **FastAPI backend** and NLP pipelines.
 > ![Python Tests](https://github.com/amanamarjit243222/Knowledge-Synthesizer/actions/workflows/python-tests.yml/badge.svg) | [**Live Demo**](https://knowledge-synthesizer.netlify.app/)
 
+#### [Discord AI](https://github.com/amanamarjit243222/discord-ai)
+> An advanced autonomous AI persona for Discord. Uses **Google Gemini** for real-time natural language interaction, context-aware memory, and authentic human-like behavior.
+> ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg) | ![Gemini](https://img.shields.io/badge/AI-Gemini-orange.svg)
+
 #### [Face Recognition (Biometric Engine)](https://github.com/amanamarjit243222/Face-recognition)
 > Privacy-first biometric access control system using client-side TensorFlow.js. Designed for high-security enterprise environments.
 > ![JS Tests](https://github.com/amanamarjit243222/Face-recognition/actions/workflows/js-tests.yml/badge.svg) | [**Live Demo**](https://identity-verification-system.netlify.app/)
