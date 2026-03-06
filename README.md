@@ -1,4 +1,4 @@
-# <p align="center">Aman Amarjit</p>
+# <p align="center"> Aman Amarjit </p>
 
 <p align="center">
   <img src="banner.png" alt="Aman Amarjit Banner" width="100%">
