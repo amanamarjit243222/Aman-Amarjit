@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:001020,100:002040&height=220&section=header&text=AMAN%20AMARJIT&fontSize=68&fontColor=e0f7ff&fontAlignY=55&stroke=00c8e0&strokeWidth=2&desc=Systems+Architect+%C2%B7+AI+Engineer+%C2%B7+Security+Researcher&descSize=16&descAlignY=75&descColor=67e8f9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:000000,40:001824,80:002d40,100:004d6b&height=260&section=header&text=AMAN%20AMARJIT&fontSize=72&fontColor=ffffff&fontAlignY=48&stroke=00d4e8&strokeWidth=3&desc=Systems+Architect+%C2%B7+AI+Engineer+%C2%B7+Security+Researcher&descSize=16&descAlignY=68&descColor=67e8f9&animation=fadeIn" width="100%"/>
 
 </div>
 
